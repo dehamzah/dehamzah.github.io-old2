@@ -1,11 +1,10 @@
 {
   "private": true,
-  "name": "minimal-blog",
-  "description": "Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.",
-  "version": "1.2.0",
-  "author": "LekoArts <hello@lekoarts.de>",
+  "name": "dehamzah",
+  "description": "dehamzah blog",
+  "version": "1.0.0",
+  "author": "Dede Hamzah <dehamzah@gmail.com>",
   "license": "MIT",
-  "starter-name": "gatsby-starter-minimal-blog",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
